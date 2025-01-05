@@ -3,7 +3,7 @@
 # Lab Cycle 1
 ------------------
 1. Array
-2. [Stack](StackLL.c)
+2. [Stack](ADS-Lab/StackLL.c)
 3. Queue
 4. Circular Queue
 5. Linked List
